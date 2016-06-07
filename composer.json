@@ -1,0 +1,18 @@
+{
+    "name": "canphp/canphp",
+    "description": "the canphp Framework",
+    "type": "framework",
+    "keywords": ["framework","canphp","speedphp"],
+    "homepage": "http://www.canphp.com/",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "canphp",
+            "email": "404352772@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "minimum-stability": "dev"
+}
